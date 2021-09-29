@@ -69,3 +69,8 @@ git branch mybranch1
 ```jsx
 git checkout mybranch1
 ```
+
+
+Git 특정 브랜치 clone 하기
+ 
+git clone -b 브랜치명 클론주소
