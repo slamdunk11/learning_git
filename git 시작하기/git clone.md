@@ -5,7 +5,7 @@
 # git clone 순서
 ### 1. git clone
 ```
-git clone
+git clone [주소]
 ```
 ### 2. git clone한 폴더로 다시 들어간다
 
