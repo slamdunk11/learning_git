@@ -13,3 +13,9 @@ git clone [주소]
 ```
 npm install
 ```
+
+### 4. 리액트의 경우 npm install -g yarn
+node -v 했을 때 node는 깔려있고, yarn은 안 깔려있었음
+그래서 yarn 깔아줌
+
+그리고 git clone했을 때 이상한 부분이 app.css로 올렸는데 git clone해서 받은 파일은 App.css로 받아져 에러가 생기는 문제가 있었음
